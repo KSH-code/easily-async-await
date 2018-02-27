@@ -2,10 +2,8 @@
 손 쉽게 callback function 을 asynchronous 하게 사용할 수 있습니다.
 ## Usage
 ```
-const { setTimeout } = require('../index')
-async function () {
-  await setTimeout(function () {
-    return 'abab'
-  }, 200)
-}
+npm install --save easily-async-await
 ```
+## Example
+* [setTimeout](https://github.com/KSH-code/easily-async-await/blob/master/test/setTimeout.test.js)
+* [then](https://github.com/KSH-code/easily-async-await/blob/master/test/then.test.js)
