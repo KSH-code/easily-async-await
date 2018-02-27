@@ -1,6 +1,6 @@
 {
   "name": "easily-async-await",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "You can use asynchronous function instead of callback function",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
     "standard": "^11.0.0"
   },
   "dependencies": {
-    "easily-expect": "^1.0.1"
+    "easily-expect": "^1.0.4"
   }
 }
